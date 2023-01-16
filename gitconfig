@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emily.ma.1995@gmail.com
+	name = Emily Ma
